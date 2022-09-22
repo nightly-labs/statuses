@@ -22,19 +22,19 @@
     "url": "https://index.aptos.nightly.app/collections",
     "icon": "https://favicons.githubusercontent.com/index.aptos.nightly.app",
     "slug": "indexer",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "status": "up",
+    "uptime": "28.53%",
+    "uptimeDay": "28.53%",
+    "uptimeWeek": "28.53%",
+    "uptimeMonth": "28.53%",
+    "uptimeYear": "28.53%",
+    "time": 490,
+    "timeDay": 490,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2022-09-22": 0
+      "2022-09-22": 25
     }
   },
   {
