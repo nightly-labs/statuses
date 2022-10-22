@@ -1,7 +1,7 @@
 url: https://index.aptos.nightly.app/collections
-status: up
-code: 200
-responseTime: 111
-lastUpdated: 2022-10-22T15:32:25.384Z
+status: down
+code: 502
+responseTime: 318
+lastUpdated: 2022-10-22T16:38:25.439Z
 startTime: Thu Sep 22 2022 13:46:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
