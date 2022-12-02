@@ -1,7 +1,7 @@
 url: https://fullnode.devnet.aptoslabs.com/v1/accounts/0x1
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2022-12-01T23:08:14.958Z
+status: down
+code: 503
+responseTime: 17558
+lastUpdated: 2022-12-02T04:31:17.540Z
 startTime: Thu Sep 22 2022 13:46:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
